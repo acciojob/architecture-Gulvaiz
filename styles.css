@@ -1,1 +1,20 @@
-/*  your css code here. If applicable */
+.firstC img{
+    width: 200px;
+}
+
+.lastC img{
+    width: 200px;
+}
+
+p{
+    width: 600px;
+}
+
+table{
+    border: 1px solid black;
+}
+ td{
+    border: 1px solid black;
+    padding: 1px; 
+    text-align: center;
+ }
